@@ -7,6 +7,7 @@
 	• Helper functions are separated to avoid repeating random selection logic.
 	• A single Random object is reused throughout the script to keep random generation consistent.
 	• Wandering runs inside its own thread so each NPC can move independently.
+	• Non Angry NPC Waves at you.
 ]]
 
 --// Variables \\--
